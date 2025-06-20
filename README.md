@@ -5,12 +5,18 @@ LED Sports Ticker is the software implementation of a physical LED strip that di
 ## Table of Contents
 
 - [Hardware Required](#hardware-required)
+- [Credit](#credit)
 
 ## Hardware Required
 
-- [ ] [Raspberry Pi 3 A+](https://www.adafruit.com/product/4027?src=raspberrypi)
-- [ ] [5V 14A Mean Well power supply](https://www.amazon.com/Single-Output-Enclosed-Switching-Supply/dp/B018TDT20I?gQT=1)
-- [ ] [Adafruit RGB Matrix Bonnet](https://www.adafruit.com/product/3211)
-- [ ] [2 x 64*32 P3 LED Matrix Panels](https://www.amazon.com/Waveshare-Full-Color-Individual-Adjustable-Brightness/dp/B0B5N5HPKX?crid=1VQFM0T6XD31M&dib=eyJ2IjoiMSJ9.PV5eN5unXVgWd9qxGaMf_Qa1usBOQ7kdo12g5IemU1URf4c_8LdoDPCJzGhy9tWullLorzWBjrTn1PlSDj-DX61HLi3p3vRTNUx8Zx76GEKe74MQ5z8za7UMWV20fDozd5DsrhOqHwuPpe8eSZcGszcrGpFJeUxpVKgqRgjIeAvZZStv30lAceVhoq4HSu5ppgY8i98yvyA1eoG9OrT8-iZA7UsHr9zGnfIjj-_JlJM.GguY9fnTs9xG5fOHVKmNJFo8zPZyrfzyHEhy4g10YgU&dib_tag=se&keywords=64x32+rgb+led+matrix+-+3mm+pitch&qid=1750356748&sprefix=64x32+rgb+led+matrix%2Caps%2C167&sr=8-3)
-- [ ] [Micro USB/USB B to Bare Wire](https://www.amazon.com/Pigtail-Soldering-Equipment-Installed-Replace/dp/B0BZWMWVDT?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1CK03RVBS2NYU&gPromoCode=2742470210502011076&gQT=1&th=1)
-- [ ] [MicroSD Card](https://www.sparkfun.com/raspberry-pi-a2-class-sd-card-32gb.html?src=raspberrypi)
+- [ ] [Raspberry Pi 4 Model B 4GB](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X?crid=KJD276J913DV&dib=eyJ2IjoiMSJ9.4wZGiZcG7IfVeIs8ylcbr1eJmnvE8oJid77PV7RQbtwZ9dKT65IvmkuFiGe-VJEWZwN_0SRzIOayyD_DM04lit8BfbptjkfsGDXHtM-RNdGpQo1nOiGN-kzXBW5vxXOvTzY_1oS1nqT3Jyx12fEC7Ywu0iRgsFFQhXJ-ueY7xw4R0-_gdUwbjnY_z4g-Az8HlIX-4B-ox5c8rCh5AxKdQ5Zyo-ZpDH93FvBYXHb7y0M.4Bd4e8S0FSHzjFTeL1prlyyrWiVBQTPks5g8UwLkXQ8&dib_tag=se&keywords=raspberry%2Bpi%2B4&qid=1748303777&sprefix=raspberry%2Bpi%2B4%2Caps%2C123&sr=8-1&th=1&linkCode=sl1&tag=chuckbuilds-20&linkId=b262a1adbfd46221d5a38343581a3ad5&language=en_US&ref_=as_li_ss_tl) ($62.59)
+- [ ] [MicroSD Card](https://www.amazon.com/SanDisk-COMINU024966-16GB-microSD-Card/dp/B004KSMXVM) ($8.98)
+- [ ] [RGB Matrix Bonnet](https://www.adafruit.com/product/3211) ($14.95 + shipping & tax)
+- [ ] [5V 4A Power Supply](https://www.amazon.com/GOOKYO-Charger-Switching-Replacement-Adapter/dp/B0BD72BWBK) ($14.99)
+- [ ] [2 x LED Matrix Panels](https://www.adafruit.com/product/2278?ref=chuck-builds.com) ($79.90 + shipping & tax)
+
+Total Price: $180 - $200
+
+## Credit
+
+Much credit to [Chuck Builds](https://www.chuck-builds.com/led-matrix/) for help on clarity regarding hardware and assembly.
