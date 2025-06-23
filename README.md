@@ -15,7 +15,7 @@ LED Sports Ticker is the software implementation of a physical LED strip that di
 - [ ] [5V 4A Power Supply](https://www.amazon.com/GOOKYO-Charger-Switching-Replacement-Adapter/dp/B0BD72BWBK) ($14.99)
 - [ ] [2 x LED Matrix Panels](https://www.adafruit.com/product/2278?ref=chuck-builds.com) ($79.90 + shipping & tax)
 
-Total Price: $180 - $200
+Total Price: $205.02 (including shipping & tax)
 
 ## Credit
 
